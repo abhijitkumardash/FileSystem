@@ -1,0 +1,17 @@
+#Variables|Length
+=================
+SystemID|4
+BUS_ORG_CDE|3
+CNTCT_RSN_CDE|3
+CNTCT_VERSN_CDE|9
+LTR_REQ_DT|16
+MSTR_APLN_ID|30
+PRSN_NM|300
+Adr_ln1|100
+Adr_ln2|100
+Adr_ln3|100
+CTY_NM|50
+ST_CDE|2
+PSTL_CDE|12
+CNTRY_CDE|3
+EmptyData1|111
